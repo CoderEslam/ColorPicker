@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">Color Picker</string>
+
+    <string name="action_color_picker" translatable="false">ColorPicker</string>
+    <string name="action_material_color_picker" translatable="false">MaterialColorPicker</string>
+
+</resources>
